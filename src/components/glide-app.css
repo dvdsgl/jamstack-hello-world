@@ -1,0 +1,17 @@
+.glide-app-container {
+  position: relative;
+  margin: 0 auto;
+  width: 440px;
+  height: 910px;
+  background-image: url(../images/pixel-frame@2x.png);
+  background-size: cover;
+}
+.glide-app {
+  background: #ffffff;
+  position: absolute;
+  border: 0;
+  top: 100px;
+  left: 20px;
+  width: 400px;
+  height: 710px;
+}
