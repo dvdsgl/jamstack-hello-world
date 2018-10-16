@@ -5,7 +5,7 @@ import GlideApp from "../components/glide-app";
 
 const IndexPage = () => (
   <Layout>
-    <GlideApp appId="CAG8PptcxPJdQFNRF0a5" />
+    <GlideApp appId="N3zEtvXXS6xtA6fMbN9d" />
   </Layout>
 );
 
